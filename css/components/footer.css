@@ -1,0 +1,27 @@
+.footer ul > li {
+  list-style-type: none;
+  display: inline-block;
+  letter-spacing: 32px;
+  font-size: 32px;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-top: 80px;
+}
+
+#facebook {
+  color:#0A80EC ;
+}
+
+#youtube {
+  color: #FF0000;
+}
+
+#instagram {
+  color:#E72F6C ;
+}
+
+#twitter {
+  color: #1D96E8;
+}

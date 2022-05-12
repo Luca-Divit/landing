@@ -1,0 +1,27 @@
+.gymflex-banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://www.vixyvideo.com/wp-content/uploads/2018/01/header-basic-fit-case.jpg");
+  margin: 0;
+}
+
+.container {
+  width: 900px;
+  padding: 250px;
+}
+
+.container h1, p {
+  text-shadow: 2px 2px black;
+  color: white;
+  margin-bottom: 50px;
+}
+
+#btn-dark {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 32px;
+  padding: 16px;
+  color: white;
+}
+
+#btn-dark:hover {
+  border: 1px solid white;
+  transition-delay: 0.1s;
+}
